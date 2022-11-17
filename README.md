@@ -11,3 +11,5 @@ https://django-debug-toolbar.readthedocs.io/en/latest/installation.html
 https://data-flair.training/blogs/django-project-ideas/
 
 https://dev.to/jackdlinke/modern-django-project-examples-58mm
+
+https://www.interviewbit.com/blog/django-projects/
