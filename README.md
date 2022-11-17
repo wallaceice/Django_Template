@@ -7,3 +7,7 @@ https://www.youtube.com/watch?v=DNGI5aD9MJs
 https://www.youtube.com/watch?v=F5mRW0jo-U4
 
 https://django-debug-toolbar.readthedocs.io/en/latest/installation.html
+
+https://data-flair.training/blogs/django-project-ideas/
+
+https://dev.to/jackdlinke/modern-django-project-examples-58mm
